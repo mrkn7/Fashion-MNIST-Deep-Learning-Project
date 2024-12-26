@@ -29,14 +29,14 @@ This project implements a deep learning model to classify these images accuratel
 ```
 Fashion-MNIST-DeepLearning/
 |
-├── images/                     # Images used in the project
-├── notebooks/                  # Jupyter Notebook files
-│   ├── part_i.ipynb            # Preprocessing and initial modeling
-│   ├── part_ii.ipynb           # Hyperparameter tuning and results
-├── README.md                   # Project documentation
-├── requirements.txt            # Python dependencies
-├── .gitignore                  # Ignored files and folders
-├── LICENSE                     # License file
+├── images/                    
+├── notebooks/                  
+│   ├── part_i.ipynb            
+│   ├── part_ii.ipynb           
+├── README.md                   
+├── requirements.txt          
+├── .gitignore                 
+├── LICENSE                     
 ```
 
 ## Setup Instructions
