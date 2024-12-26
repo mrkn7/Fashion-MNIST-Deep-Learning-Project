@@ -72,21 +72,6 @@ Optimize the model by running the second notebook:
 jupyter notebook notebooks/part_ii.ipynb
 ```
 
-### 3. Modular Code
-Alternatively, use the Python scripts for preprocessing, model training, and evaluation:
-- Data Preprocessing:
-  ```bash
-  python src/data_preprocessing.py
-  ```
-- Model Training:
-  ```bash
-  python src/model.py
-  ```
-- Evaluation:
-  ```bash
-  python src/evaluate.py
-  ```
-
 ## Results
 The trained model achieves an accuracy of approximately 90% on the Fashion-MNIST test dataset. For detailed results, see the the evaluation notebook (`part_ii.ipynb`).
 
